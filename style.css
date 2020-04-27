@@ -178,11 +178,6 @@ body {
   filter: drop-shadow(10px 10px 5px #222);
 }
 /* Tambahkan CSS untuk tag <p> yang berada didalam <footer> */
-footer h3 {
-  text-align: left;
-  font-size: 45px;
-  color: gray;
-}
 
 footer p {
   text-align: left;
